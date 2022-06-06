@@ -5,6 +5,7 @@ In my freetime I enjoy gaming, woodworking, tinkering with electronics, and biki
 I'm looking foward to working with all of you.
 
 Email: njb4775@uncw.edu
+
 Text: 910-515-3832
 
 <!--
