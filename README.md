@@ -2,9 +2,8 @@
 I'm a junior majoring in Comp Sci and also Elctrical Engineering through the UNCW/NC State transfer program.
 I'm currently attempting to learn app development using the Flutter SDK and also 3d object creation using Fusion360.
 In my freetime I enjoy gaming, woodworking, tinkering with electronics, and biking.
-I'm looking foward to working with all of you.
 
-Email: njb4775@uncw.edu
+Email: njbrunsi@ncsu.edu
 
 Text: 910-515-3832
 
