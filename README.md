@@ -1,5 +1,5 @@
 ### Hello, I am Nicholas. 
-I am in my first year of my PhD in Electrical Engineering at North Carolina State University.
+I am a first year PhD student in Electrical Engineering at North Carolina State University.
 
 My research area is in GNNs, AI Accelerators, and optimizations. Recently, I have been looking at sparse-dense matrix multiplication on the Cerebras CS-2 system
 
