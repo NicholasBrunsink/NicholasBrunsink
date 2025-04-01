@@ -1,11 +1,7 @@
 ### Hello, I am Nicholas. 
-I'm a junior majoring in Comp Sci and also Elctrical Engineering through the UNCW/NC State transfer program.
-I'm currently attempting to learn app development using the Flutter SDK and also 3d object creation using Fusion360.
-In my freetime I enjoy gaming, woodworking, tinkering with electronics, and biking.
+I am in my first year of my PhD in Electrical Engineering at North Carolina State University.
 
 Email: njbrunsi@ncsu.edu
-
-Text: 910-515-3832
 
 <!--
 **NicholasBrunsink/NicholasBrunsink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
